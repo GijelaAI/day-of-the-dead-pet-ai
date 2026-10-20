@@ -1,0 +1,11 @@
+node_modules
+dist
+.wrangler
+.tanstack
+.idea
+.DS_Store
+.env
+.env.local
+.dev.vars
+.secrets.json
+*.tsbuildinfo
